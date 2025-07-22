@@ -82,7 +82,7 @@ La aplicación se abrirá en: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## ✅ Funcionalidades Principales
+## Funcionalidades Principales
 
 - Login y validación de usuarios con contraseñas cifradas.
 - Módulo CRUD para cursos.
