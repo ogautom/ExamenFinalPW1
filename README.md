@@ -4,7 +4,7 @@ Este es un proyecto completo para el examen final de la materia **Programación 
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Frontend**: React.js + Vite + Tailwind CSS
 - **Backend**: Node.js + Express
@@ -14,7 +14,7 @@ Este es un proyecto completo para el examen final de la materia **Programación 
 
 ---
 
-## 🛠️ Instalación del Proyecto
+## Instalación del Proyecto
 
 ### 1. Clonar el repositorio
 
@@ -31,7 +31,7 @@ npm install
 node server.js
 ```
 
-🔐 Asegurate de tener un archivo `.env` en la carpeta `/backend` con esta información:
+Asegurate de tener un archivo `.env` en la carpeta `/backend` con esta información:
 
 ```env
 PORT=3001
@@ -41,7 +41,7 @@ DB_PASSWORD=TUCONTRASENA
 DB_NAME=examenfinal
 ```
 
-💡 También necesitás tener creada la base de datos `examenfinal` en MySQL. Se puede usar este script:
+También necesitás tener creada la base de datos `examenfinal` en MySQL. Se puede usar este script:
 
 ```sql
 CREATE DATABASE IF NOT EXISTS examen_final;
@@ -93,7 +93,7 @@ La aplicación se abrirá en: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📚 CRUDs implementados y relación entre datos
+## CRUDs implementados y relación entre datos
 
 ### Cursos
 - Crear, editar, eliminar, listar cursos.
@@ -104,7 +104,7 @@ La aplicación se abrirá en: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📊 Reporte
+## Reporte
 
 La vista de **Reporte** muestra una tabla con la cantidad de estudiantes registrados por curso.
 
