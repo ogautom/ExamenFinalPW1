@@ -114,5 +114,5 @@ La vista de **Reporte** muestra una tabla con la cantidad de estudiantes registr
 
 ---
 
-## ✨ Autor
+## Autor
 - Nombre: Osmar Gauto
