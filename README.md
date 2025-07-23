@@ -31,7 +31,7 @@ npm install
 node server.js
 ```
 
-Asegurate de tener un archivo `.env` en la carpeta `/backend` con esta información:
+Asegurarse de tener un archivo `.env` en la carpeta `/backend` con esta información:
 
 ```env
 PORT=3001
@@ -41,7 +41,7 @@ DB_PASSWORD=TUCONTRASENA
 DB_NAME=examenfinal
 ```
 
-También necesitás tener creada la base de datos `examenfinal` en MySQL. Se puede usar este script:
+También necesitamos tener creada la base de datos `examenfinal` en MySQL. Se puede usar el siguiente script:
 
 ```sql
 CREATE DATABASE IF NOT EXISTS examen_final;
